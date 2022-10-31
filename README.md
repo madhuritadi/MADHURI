@@ -1,2 +1,1 @@
-# online medishop
-MEDSHOPEE
+# online-medishop
