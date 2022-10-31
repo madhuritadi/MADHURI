@@ -1,2 +1,2 @@
-# MADHURI
+# online medishop
 MEDSHOPEE
